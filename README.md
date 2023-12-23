@@ -1,3 +1,8 @@
+пояснения есть в отчете, в целом все понятно
+
+
+
+
 #include <iostream>
 #include <string>
 #include <vector>
